@@ -60,7 +60,7 @@
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
     "express": "^4.16.3",
-    "flow-bin": "^0.110.1",
+    "flow-bin": "^0.129.0",
     "grumbler-scripts": "^3.0.18",
     "post-robot": "^10.0.13",
     "sync-browser-mocks": "^2.0.8",
